@@ -1,0 +1,23 @@
+<!ELEMENT student-index (student)+>
+
+<!ELEMENT student (first-name, middle-name?, last-name, pref-name?, email, phone, year, gpa, major, 
+minor?, status, advisor, enroll-date, grad-date)>
+
+<!-- Must contain -->
+<!ELEMENT first-name    (#PCDATA)>
+<!ELEMENT middle-name   (#PCDATA)>
+<!ELEMENT last-name     (#PCDATA)>
+<!ELEMENT pref-name     (#PCDATA)>
+<!ELEMENT email         (#PCDATA)>
+<!ELEMENT year          (#PCDATA)>
+<!ELEMENT phone         (#PCDATA)>
+<!ELEMENT gpa           (#PCDATA)>
+<!ELEMENT major         (#PCDATA)>
+<!ELEMENT minor         (#PCDATA)>
+<!ELEMENT status        (#PCDATA)>
+<!ELEMENT advisor       (#PCDATA)>
+<!ELEMENT enroll-date   (#PCDATA)>
+<!ELEMENT grad-date     (#PCDATA)>
+
+<!ATTLIST student
+        stu-id CDATA #REQUIRED>
