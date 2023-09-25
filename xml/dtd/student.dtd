@@ -1,5 +1,17 @@
+<!-- ===================================================================
+  Root Element: student-index
+
+  The student-index container must contain at least one student container
+  within it.
+  ================================================================== -->
 <!ELEMENT student-index (student)+>
 
+<!-- ===================================================================
+  The student container element must contain one first name, one or no 
+  middle name, one last name, one or no pref-name, one email, on phone,
+  one year, one gpa, one major, one or no minor, one status, one advisor,
+  one enroll-date, and one grad-date
+  ================================================================== -->
 <!ELEMENT student (first-name, middle-name?, last-name, pref-name?, email, phone, year, gpa, major, 
 minor?, status, advisor, enroll-date, grad-date)>
 

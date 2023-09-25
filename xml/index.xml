@@ -19,7 +19,6 @@
         <enroll-date>08-24-1969</enroll-date>
         <grad-date>05-01-1973</grad-date>
     </student>
-
     <student stu-id="4567890">
         <first-name>Kim</first-name>
         <last-name>Thayil</last-name>
@@ -34,7 +33,6 @@
         <enroll-date>08-25-1978</enroll-date>
         <grad-date>05-01-1982</grad-date>
     </student>
-
     <student stu-id="8302438">
         <first-name>Saul</first-name>
         <last-name>Hudson</last-name>
@@ -50,7 +48,6 @@
         <enroll-date>08-25-1983</enroll-date>
         <grad-date>05-01-1987</grad-date>
     </student>
-
     <student stu-id="2983928">
         <first-name>Emily</first-name>
         <last-name>Kokal</last-name>
@@ -65,7 +62,6 @@
         <enroll-date>08-25-1998</enroll-date>
         <grad-date>05-01-2002</grad-date>
     </student>
-
     <student stu-id="1234567">
         <first-name>Mike</first-name>
         <last-name>Inez</last-name>

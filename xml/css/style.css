@@ -2,16 +2,17 @@
 :root::before,
 student {
   display: block;
-  line-height: 50px;
+  content: "\a";
+  white-space: pre;
 }
 
 :root {
-    background-color: green;
+    background-color: #ac9362;
 }
 
 :root::before {
     content: 'Student Index';
-    text-align: center;
+    text-align: left;
     font-size: 2.5rem;
     margin: 24px 0;
   }
@@ -21,57 +22,71 @@ student::before {
 }
 
 first-name::before {
+    font-weight: bold;
     content: "First Name: ";
 }
 
 middle-name::before {
+    font-weight: bold;
     content: "Middle Name: ";
 }
 
 last-name::before {
+    font-weight: bold;
     content: "Last Name: ";
 }
 
 pref-name::before {
+    font-weight: bold;
     content: "Preferred Name: ";
 }
 
 email::before {
+    font-weight: bold;
     content: "Email: ";
 }
 
 phone::before {
+    font-weight: bold;
     content: "Phone: ";
 }
 
 year::before {
+    font-weight: bold;
     content: "Year: ";
 }
 
 gpa::before {
+    font-weight: bold;
     content: "GPA: ";
 }
 
 major::before {
+    font-weight: bold;
     content: "Major: ";
 }
 
 minor::before {
+    font-weight: bold;
     content: "Minor: ";
 }
 
 status::before {
+    font-weight: bold;
     content: "Status: ";
 }
 
 advisor::before {
+    font-weight: bold;
     content: "Advisor: ";
 }
 
 enroll-date::before {
+    font-weight: bold;
     content: "Enroll Date: ";
 }
 
 grad-date::before {
+    font-weight: bold;
     content: "Graduation Date: ";
 }

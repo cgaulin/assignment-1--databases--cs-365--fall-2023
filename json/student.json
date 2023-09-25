@@ -1,0 +1,86 @@
+{
+    "student-index": [
+        {
+            "student": [
+                {
+                    "stu-id": 1234567,
+                    "first-name": "Gordon",
+                    "middle-name": "Matthew",
+                    "last-name": "Sumner",
+                    "pref-name": "\"Sting\"",
+                    "email": "sting@thepolice.com",
+                    "phone": "212.123.4567",
+                    "year": "first year",
+                    "gpa": 4.0,
+                    "major": "Music",
+                    "minor": "English",
+                    "status": "full-time",
+                    "advisor": "Andy Summers",
+                    "enroll-date": "08-24-1969",
+                    "grad-date": "05-01-1973"
+                },
+                {
+                    "stu-id": 4567890,
+                    "first-name": "Kim",
+                    "last-name": "Thayil",
+                    "email": "kim@soundgarden.com",
+                    "phone": "212.123.4567",
+                    "year": "second year",
+                    "gpa": 3.0,
+                    "major": "Philosophy",
+                    "minor": "Music",
+                    "status": "full-time",
+                    "advisor": "Chris Cornell",
+                    "enroll-date": "08-25-1978",
+                    "grad-date": "05-01-1982"
+                },
+                {
+                    "stu-id": 8302438,
+                    "first-name": "Saul",
+                    "last-name": "Hudson",
+                    "pref-name": "\"Slash\"",
+                    "email": "slash@gnr.com",
+                    "phone": "213.456.8392",
+                    "year": "fourth year",
+                    "gpa": 2.0,
+                    "major": "Music",
+                    "minor": "Criminal Justice",
+                    "status": "part-time",
+                    "advisor": "Axl Rose",
+                    "enroll-date": "08-25-1983",
+                    "grad-date": "05-01-1987"
+                },
+                {
+                    "stu-id": 2983928,
+                    "first-name": "Emily",
+                    "last-name": "Kokal",
+                    "email": "emily@warpaint.com",
+                    "phone": "213.123.7654",
+                    "year": "third year",
+                    "gpa": 3.8,
+                    "major": "Political Science",
+                    "minor": "Law",
+                    "status": "full-time",
+                    "advisor": "Jenny Lee Lindberg",
+                    "enroll-date": "08-25-1998",
+                    "grad-date": "05-01-2002"
+                },
+                {
+                    "stu-id": 1234567,
+                    "first-name": "Mike",
+                    "last-name": "Inez",
+                    "email": "mike@aic.com",
+                    "phone": "213.444.3323",
+                    "year": "second year",
+                    "gpa": 4.0,
+                    "major": "Business Management",
+                    "minor": "Math",
+                    "status": "full-time",
+                    "advisor": "Jerry Cantrell",
+                    "enroll-date": "08-25-1984",
+                    "grad-date": "05-01-1988"
+                }
+            ]
+        }
+    ]
+}
